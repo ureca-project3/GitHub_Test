@@ -1,5 +1,7 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("오늘 점심 라멘");
+        System.out.println("Hello, World!");
+        System.out.println("이신지");
+        System.out.println("김범수");
     }
 }
